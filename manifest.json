@@ -1,7 +1,7 @@
 {
   "name": "Time",
   "short_name": "Time",
-  "description": "See the time in different appearances",
+  "description": "Time app for seeing the current time in different appearances",
   "start_url": ".",
   "orientation": "portrait",
   "display": "standalone",
